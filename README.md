@@ -48,7 +48,7 @@ Aqui estão alguns dos projetos que destaco no portfólio:
 Se você quiser entrar em contato ou conversar sobre oportunidades, pode me encontrar aqui:
 
 - **LinkedIn:** [Gustavo Lopes](https://www.linkedin.com/in/gusta-lopexx/) 
-- **GitHub:** [@Kakabell](https://github.com/gusta-lopexx) 
+- **GitHub:** [@gusta-lopexx](https://github.com/gusta-lopexx) 
 - **Instagram:** [@gusta_lopexx](https://www.instagram.com/gusta_lopexx/) 
 - **WhatsApp:** [Enviar Mensagem](https://wa.me/5547991912757) 
 
