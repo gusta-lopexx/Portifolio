@@ -1,0 +1,15 @@
+.custom-border {
+    border: 3px solid red;
+    border-radius: 80px;
+    color: red;
+    padding: 30px 20px;
+    background: #fff;
+    min-height: 80vh;
+}
+.custom-title {
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+body {
+    background: #fff;
+}
