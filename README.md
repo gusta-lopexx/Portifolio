@@ -6,13 +6,7 @@
 
 ## 🎯 Sobre o Projeto
 
-Este é o meu portfólio pessoal, criado utilizando **HTML5**, **CSS3**, **JavaScript (Vanilla)** e **jQuery**, com animações suaves feitas com **GSAP**. Ele tem como objetivo apresentar minhas habilidades técnicas, projetos pessoais e servir como ponto de contato para oportunidades profissionais.
-
-O design é responsivo e inclui funcionalidades como:
-- Sistema de mudança de cores dinâmico
-- Animações suaves ao navegar entre seções
-- Menu lateral interativo
-- Apresentação de projetos com links diretos para repositórios no GitHub
+Este é o meu portfólio pessoal. Ele tem como objetivo apresentar minhas habilidades técnicas, projetos pessoais e servir como ponto de contato para oportunidades profissionais.
 
 ---
 
@@ -21,7 +15,7 @@ O design é responsivo e inclui funcionalidades como:
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **jQuery**
+- **BootStrap**
 
 ---
 
@@ -29,9 +23,6 @@ O design é responsivo e inclui funcionalidades como:
 
 - Apresentação inicial com nome e área de atuação
 - Seções: Sobre, Projetos, Contato
-- Sistema de mudança de cores dinâmico
-- Menu lateral responsivo
-- Animações suaves com GSAP
 - Botões de contato direto (WhatsApp)
 - Exibição de projetos com descrição e links
 
@@ -56,8 +47,8 @@ Aqui estão alguns dos projetos que destaco no portfólio:
 
 Se você quiser entrar em contato ou conversar sobre oportunidades, pode me encontrar aqui:
 
-- **LinkedIn:** [Gustavo Lopes](https://www.linkedin.com/in/gustavo-aparecido-de-souza-lopes-919525104/) 
-- **GitHub:** [@Kakabell](https://github.com/Kakabell) 
+- **LinkedIn:** [Gustavo Lopes](https://www.linkedin.com/in/gusta-lopexx/) 
+- **GitHub:** [@Kakabell](https://github.com/gusta-lopexx) 
 - **Instagram:** [@gusta_lopexx](https://www.instagram.com/gusta_lopexx/) 
 - **WhatsApp:** [Enviar Mensagem](https://wa.me/5547991912757) 
 
